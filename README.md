@@ -1,7 +1,7 @@
 # Electronic-Devices-Project-Showcase
 A showcase of my Electronic Devices Visualization Project that was developed in conjunction with Dr. Harris at Texas A&amp;M University. Inspired by ECEN 370.
 
-DEPLOYMENT FOUND HERE:
+Deployment:
 https://unintentionallogic.github.io/Electronic-Devices-Band-Visualization-Project/
 
 Si-Si Junction (Diode):
